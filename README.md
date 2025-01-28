@@ -5,7 +5,7 @@
   When I'm not coding, you'll find me chasing adventures, both in the digital realm and the great outdoors.
   
 - 🛠️ Technical Skills
-  Languages: C, C++, C#, Python, SQL, JavaScript
+  Languages: Java, C++, C#, Python, SQL, JavaScript, Node.js, Springboot
   Design: Principles and Patterns
   
 - 🌍 Personal Interests
